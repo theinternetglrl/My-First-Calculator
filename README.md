@@ -17,7 +17,7 @@ This was me experimenting and applying what I’ve learned so far no frameworks,
 ##  Tech I used
 - **HTML** for the structure
 - **CSS** for styling  
-- **JavaScript** for functionality (yes, even `eval()` 👀)  
+- **JavaScript** for functionality (yes, even `eval()` )  
 - **localStorage** for saving the calculation
 
 ##  What I learned
