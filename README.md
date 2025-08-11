@@ -1,4 +1,4 @@
-# My First Project — Simple Calculator  
+# My First Project Simple Calculator  
 
 This is my **very first** HTML, CSS, and JavaScript project! 
 I made it as a way to try out **everything I know so far** in web development.  
